@@ -1,4 +1,13 @@
-### Cookies and Sessions
+# Cookies and Sessions
+
+## Reading
+
+- Using HTTP cookies:
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
+
+- CORS:
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+
 
 #### Cookies vs Local Storage
 
